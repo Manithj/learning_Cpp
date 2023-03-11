@@ -136,10 +136,10 @@ int main()
 
 C++ libraries provide implementations of smart pointers in the following types:
 
-- [auto_ptr](https://github.com/Manithj/learning_Cpp/tree/pointers/Pointers#auto_ptr)
-- [unique_ptr](https://github.com/Manithj/learning_Cpp/tree/pointers/Pointers#unique_ptr)
-- [shared_ptr](https://github.com/Manithj/learning_Cpp/tree/pointers/Pointers#shared_ptr)
-- [weak_ptr](https://github.com/Manithj/learning_Cpp/tree/pointers/Pointers#weak_ptr)
+- auto_ptr
+- unique_ptr
+- shared_ptr
+- weak_ptr
 
 ### <u>auto_ptr</u>
 
